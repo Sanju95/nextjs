@@ -1,0 +1,19 @@
+{
+  "name": "nextjsconf2021",
+  "version": "1.0.0",
+  "description": "NextJS conference 2021: getting started with Next.js",
+  "main": "index.js",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.7.1",
+    "next": "^12.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.6"
+  },
+  "scripts": {
+    "dev": "next dev"
+  },
+  "devDependencies": {},
+  "author": "Spartan",
+  "license": "ISC"
+}
